@@ -9,8 +9,8 @@
  * @bug If works there's no bugs.
  */
 
-#ifndef _module1_h
-#define _module1_h
+#ifndef _hello_h
+#define _hello_h
 
 void hello();
 

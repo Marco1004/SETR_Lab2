@@ -1,3 +1,5 @@
+#include "vInit.h"
+
 int* vInit(){
     int size = 10;
     int numbers[10];
